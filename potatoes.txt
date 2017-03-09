@@ -1,2 +1,3 @@
 idaho
 russet
+red
