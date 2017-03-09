@@ -1,7 +1,3 @@
 red delicious
-<<<<<<< HEAD
 gala
-=======
-honey-crisp
->>>>>>> master
 fuji
