@@ -1,3 +1,4 @@
 idaho
 russet
 red
+golden
