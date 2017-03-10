@@ -1,0 +1,2 @@
+887f316 Update apples.txt
+138720e Merge pull request #2 from shasts2/parallel
