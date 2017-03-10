@@ -6,3 +6,4 @@ fuji
 gala
 honey-crisp
 lalal
+sam
