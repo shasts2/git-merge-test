@@ -4,3 +4,4 @@ fuji
 gala
 honey-crisp
 all
+sam
